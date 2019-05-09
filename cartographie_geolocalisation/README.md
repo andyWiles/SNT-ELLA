@@ -3,12 +3,14 @@
 
 
 ### Cette partie contient :
- - Une base de programme  en python permettant le lire un .csv contenant des coordonnées GPS 
+ - dans localisationGPS :   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une base de programme  en python permettant le lire un .csv contenant des coordonnées GPS 
  (facile à compléter pour faire afficher des communes suivant des besoins ou créer des quiz)
  
- - Un fork d'un super projet appelé  geospatial-analysis et situé sur https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
+ - dans geospatial-analysis : un fork d'un super projet appelé  geospatial-analysis qui manipule des cartes interactives 
  
- NB : Pour installer jupyter notebook et ipython
+ - Démo sur  https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
+ 
+ - Nécessite d'installer jupyter notebook et ipython
  
   ``python3 -m pip install jupyter``
   
