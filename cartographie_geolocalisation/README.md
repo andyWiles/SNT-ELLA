@@ -15,7 +15,7 @@
   
   ### Liens intéressants :
   https://leafletjs.com
-  script javascript permettant de mettre des cartes interactives dans un fichier HTML
+  &nbsp; script javascript permettant de mettre des cartes interactives dans un fichier HTML
   
   https://france-geojson.gregoiredavid.fr
   bases de données sur les communes, départements et régions de France
