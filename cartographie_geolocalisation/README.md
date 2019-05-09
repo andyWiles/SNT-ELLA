@@ -15,10 +15,10 @@
   
   ### Liens intéressants :
   https://leafletjs.com
-  &nbsp; script javascript permettant de mettre des cartes interactives dans un fichier HTML
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; script javascript permettant de mettre des cartes interactives dans un fichier HTML
   
   https://france-geojson.gregoiredavid.fr
-  bases de données sur les communes, départements et régions de France
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bases de données sur les communes, départements et régions de France
   
   https://sql.sh/736-base-donnees-villes-francaises
-  bases de données sur les communes de France
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bases de données sur les communes de France
