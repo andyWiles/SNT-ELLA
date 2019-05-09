@@ -1,6 +1,6 @@
 # Geospatial analysis
 
-This repository contains Jupyter notebooks to explore the Python ecosystem for geospatial analysis.
+Ce projet utilise Jupyter notebooks pour explorer des données géographiques
 
 ## Démonstration
 https://nbviewer.jupyter.org/github/makinacorpus/tutorials/blob/master/geospatial-analysis/notebooks/Snow_map.ipynb
