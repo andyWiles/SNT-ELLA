@@ -1,12 +1,24 @@
 # SNT-ELLA #
 ## Cartographie ##
 
-Cette partie contient :
+
+### Cette partie contient :
  - Une base de programme  en python permettant le lire un .csv contenant des coordonnées GPS
  - Un fork d'un super projet appelé  geospatial-analysis et situé sur https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
  
- Penser à installer jupyter notebook et ipython
+ NB : Pour installer jupyter notebook et ipython
  
   ``python3 -m pip install jupyter``
   
   ``python3 -m pip install ipython``
+  
+  
+  ### Liens intéressants :
+  https://leafletjs.com
+  script javascript permettant de mettre des cartes interactives dans un fichier HTML
+  
+  https://france-geojson.gregoiredavid.fr
+  bases de données sur les communes, départements et régions de France
+  
+  https://sql.sh/736-base-donnees-villes-francaises
+  bases de données sur les communes de France
