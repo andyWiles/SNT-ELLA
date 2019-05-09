@@ -1,2 +1,8 @@
 # SNT-ELLA
-SNT
+à traiter :
+## cartographie
+## web
+## internet
+## réseaux sociaux
+## photos numériques
+## objets connectés
