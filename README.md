@@ -1,8 +1,8 @@
 # SNT-ELLA
-à traiter :
-## cartographie
-## web
-## internet
-## réseaux sociaux
-## photos numériques
-## objets connectés
+programme de seconde 
+### cartographie
+### web
+### internet
+### réseaux sociaux
+### photos numériques
+##### objets connectés
