@@ -5,7 +5,7 @@
  - dans localisationGPS :   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une base de programme  en python permettant le lire un .csv contenant des coordonnées GPS 
  (facile à compléter pour faire afficher des communes suivant des besoins ou créer des quiz)
  
- - dans geospatial-analysis : un fork d'un super projet appelé  geospatial-analysis qui manipule des cartes interactives 
+ - dans geospatial-analysis : un super projet  qui manipule des cartes interactives 
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sources sur  https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
  
