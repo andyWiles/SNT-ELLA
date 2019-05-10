@@ -102,7 +102,6 @@ def motion(event):
         canevas.create_text(850,250, text="longitude ="+ str(longitude(x)),fill='red')
         
     if (afficheVilles):
-        R=5
         for no in range(len(villes)):
             villes[no].affiche();
      
