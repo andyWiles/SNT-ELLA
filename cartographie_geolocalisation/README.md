@@ -1,4 +1,4 @@
-# SNT-ELLA #
+_p# SNT-ELLA #
 ## Cartographie ##
 
 
@@ -14,11 +14,11 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Nécessite d'installer jupyter notebook et ipython
  
-  ``python3 -m pip install jupyter``
+  ``python3 -m pip install jupyter 
   
-  ``python3 -m pip install ipython``
+  python3 -m pip install ipython 
   
-  ``jupyter notebook``
+  jupyter notebook``
   
   ### Liens intéressants :
   https://leafletjs.com
