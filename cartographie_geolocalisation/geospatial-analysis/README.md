@@ -29,7 +29,7 @@ https://nbviewer.jupyter.org/github/makinacorpus/tutorials/blob/master/geospatia
     ``` 
     pour démarrer
 
-## Sources
+## Références
 
 
 ```
