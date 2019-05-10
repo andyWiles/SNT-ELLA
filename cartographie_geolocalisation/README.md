@@ -18,6 +18,7 @@
   
   ``python3 -m pip install ipython``
   
+  ``jupyter notebook``
   
   ### Liens intéressants :
   https://leafletjs.com
