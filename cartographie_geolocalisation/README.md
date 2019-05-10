@@ -8,9 +8,11 @@
  
  - dans geospatial-analysis : un fork d'un super projet appelé  geospatial-analysis qui manipule des cartes interactives 
  
- - Démo sur  https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
+ -- Sources sur  https://github.com/makinacorpus/tutorials/tree/master/geospatial-analysis
  
- - Nécessite d'installer jupyter notebook et ipython
+ --  Démo sur https://makina-corpus.com/blog/metier/2019/python-carto
+ 
+ -- Nécessite d'installer jupyter notebook et ipython
  
   ``python3 -m pip install jupyter``
   
