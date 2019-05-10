@@ -19,7 +19,7 @@ https://nbviewer.jupyter.org/github/makinacorpus/tutorials/blob/master/geospatia
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``python3 -m pip install ipython ``
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``jupyter notebook``
+
   
   
  ## Exécution
